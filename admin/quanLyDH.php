@@ -40,9 +40,9 @@
                 <td>Khi nhận hàng</td>
                 <td>Đang vận chuyển</td>
                 <td>
-                    <a href="#" style=" background-color: #1C8552; color : white;">Xem chi tiết</a>
-                    <a href="#" style=" background-color: #FBBE00; color : black;">Cập nhật</a>
-                    <a href="#" style=" background-color: #DC3640; color : white;">Xóa</a>
+                    <a href="xemCT_DH.php" style=" background-color: #1C8552; color : white;">Xem chi tiết</a>
+                    <a href="capNhat_DH.php" style=" background-color: #FBBE00; color : black;">Cập nhật</a>
+                    <a href="xoa_DH.php" style=" background-color: #DC3640; color : white;">Xóa</a>
                 </td>
             </tr>
             <tr>

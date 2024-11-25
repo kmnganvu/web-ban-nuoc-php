@@ -33,13 +33,13 @@
             </tr>
             <tr>
                 <td>1</td>
-                <td>Cà phê đá</td>
-                <td>1000</td>
-                <td>Cà phê</td>
+                <td>Matcha Latte</td>
+                <td>2</td>
+                <td>Trà</td>
                 <td>
-                    <a href="#" style=" background-color: #1C8552; color : white;">Xem chi tiết</a>
-                    <a href="#" style=" background-color: #FBBE00; color : black;">Cập nhật</a>
-                    <a href="#" style=" background-color: #DC3640; color : white;">Xóa</a>
+                    <a href="xemCT_SP.php" style=" background-color: #1C8552; color : white;">Xem chi tiết</a>
+                    <a href="capNhat_SP.php" style=" background-color: #FBBE00; color : black;">Cập nhật</a>
+                    <a href="xoa_SP.php" style=" background-color: #DC3640; color : white;">Xóa</a>
                 </td>
             </tr>
             <tr>
